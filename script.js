@@ -25,4 +25,3 @@ const sumar = () => {
     const resultado = num1 / num2;
     document.getElementById('resultado').innerHTML = `El resultado de la división es: ${resultado}`;
   }
-  
